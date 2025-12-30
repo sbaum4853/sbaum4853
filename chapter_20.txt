@@ -1,0 +1,281 @@
+CHAPTER 20 - PRIME NUMBERS AND POP TARTS
+
+I spent Sunday morning in my room, working on Challenge 7.
+
+The maze was tricky. Every intersection had multiple paths, each labeled with a number. Some numbers were prime (2, 3, 5, 7, 11...), and some weren't (4, 6, 8, 9, 10...).
+
+At first, I thought the solution was simple: always take the path with a prime number.
+
+Wrong.
+
+The maze reset three times before I realized there was more to it.
+
+The prime numbers weren't just labels—they were a sequence. And to navigate the maze correctly, I had to follow the sequence in order.
+
+Start at 2. Then 3. Then 5. Then 7. Then 11.
+
+I grabbed a piece of paper and mapped out the maze, tracing the path with my finger.
+
+Two right turns. One left. Straight. Right again.
+
+I entered the moves into the game.
+
+Bleep Blorp moved through the maze, turning at each intersection.
+
+And then, finally, it reached the exit.
+
+**CHALLENGE 7: COMPLETE.**
+
+The screen flashed, and a new message appeared:
+
+**WELL DONE, TRAVELER. THE NEXT CLUE WILL ARRIVE SOON.**
+
+**COORDINATES: 35.0844° N, 106.6504° W**
+
+**LOCATION: WHERE KNOWLEDGE REACHES THE SKY.**
+
+I typed the coordinates into my phone.
+
+The pin dropped on a familiar location.
+
+Mesa View Elementary School.
+
+My old school. The one I'd gone to before we moved.
+
+*Where knowledge reaches the sky.*
+
+I thought about the school building—three stories tall, the tallest building in that part of town. There was a legend among kids that if you could get to the roof, you could see all the way to the mountains.
+
+I'd never been on the roof.
+
+But I knew someone who had.
+
+Me. Last summer. With a paper airplane.
+
+My stomach twisted.
+
+I hadn't thought about that day in months.
+
+(scene break)
+
+I texted Siggy and Raven:
+
+**Solved Challenge 7. Next clue is at Mesa View Elementary. Roof.**
+
+Siggy replied first: **ROOF?! How are we supposed to get on the roof?**
+
+Raven: **When do we go?**
+
+Me: **Tomorrow after school? Meet at the south entrance.**
+
+Siggy: **I'm in.**
+
+Raven: **Same.**
+
+I set my phone down and stared at the ceiling.
+
+Mesa View Elementary.
+
+The place where everything had started to go wrong.
+
+(scene break)
+
+That afternoon, I went to Grandpa's.
+
+I needed a distraction from thinking about Mesa View, and working on the robot seemed like the perfect excuse.
+
+Grandpa was in the workshop, as usual, bent over a piece of metal he was shaping with a file.
+
+"Gavin!" he said, looking up. "Good timing. I was just about to start on the chassis for your robot."
+
+"Chassis?"
+
+"The frame. The body. The part that holds everything together."
+
+He set down the file and pulled out a sheet of thin aluminum from a shelf.
+
+"We're going to cut this into a platform," he explained. "Then we'll mount the Arduino, the motors, and the wheels on it."
+
+"We're adding motors?"
+
+"Today we are. But first, you're going to help me cut this metal."
+
+He handed me a pair of safety goggles and a pair of tin snips—heavy-duty scissors designed for cutting sheet metal.
+
+"Measure twice, cut once," Grandpa said, handing me a ruler.
+
+We measured out a rectangle, about eight inches by ten inches, and I carefully cut along the lines. The snips were harder to use than I expected, and my hands were sore by the time I finished.
+
+But when I held up the piece of metal, I felt a surge of pride.
+
+"Good work," Grandpa said. "Now we drill."
+
+He showed me how to mark where the holes should go—four corners for the wheels, and a few in the center for mounting the Arduino and the battery pack.
+
+Then he handed me a power drill.
+
+"You ever used one of these?"
+
+"No."
+
+"Time to learn."
+
+He guided my hands as I drilled the first hole, the bit chewing through the metal with a high-pitched whine. By the fourth hole, I was doing it on my own.
+
+"There you go," Grandpa said. "You're a natural."
+
+We spent the next hour assembling the robot. Grandpa showed me how to attach the motors to the chassis using bolts and nuts, how to connect the wheels, and how to wire everything to the Arduino.
+
+By the end of it, I had a robot.
+
+It wasn't fancy. It didn't have a cool outer shell or flashing lights. But it was mine.
+
+"Tomorrow," Grandpa said, "we'll program it to move forward and backward. Then we'll add sensors so it can avoid obstacles."
+
+"This is so cool," I said, staring at the little machine.
+
+"It's even cooler when it works." Grandpa grinned. "Which reminds me—did you read that chapter on electricity yet?"
+
+"Uh...most of it."
+
+"Most of it?"
+
+"Okay, some of it."
+
+Grandpa laughed. "You're lucky I like you."
+
+(scene break)
+
+On the way home, I stopped at Fort Juniper again.
+
+I don't know why. Maybe I was trying to make peace with it. Maybe I just needed to think.
+
+I stepped through the gap in the burned trunk and stood in the quiet darkness, surrounded by pine needles and shadows.
+
+And I let myself remember.
+
+(illustration: Gavin sitting inside Fort Juniper)
+
+Last summer. Late July.
+
+Mom and Dad had just told us we were moving. Selling the house. Leaving Northwood Prep. Starting over.
+
+I'd been so angry.
+
+Not just sad. Not just disappointed.
+
+Furious.
+
+I'd spent the whole summer being Mean Gavin. Snapping at Paige. Ignoring Lila. Slamming doors.
+
+And one day, I'd done something worse.
+
+It was a stupid dare. Just me and two kids from the neighborhood—kids I don't even talk to anymore.
+
+We were at the corner store, and one of them said, "I bet you won't steal something."
+
+And I said, "I bet I will."
+
+I took a box of Pop Tarts. Strawberry. Not even a flavor I liked.
+
+I walked out of the store, my heart pounding, waiting for someone to yell at me.
+
+No one did.
+
+And I felt...powerful. Like I'd gotten away with something.
+
+So I did it again.
+
+And again.
+
+Candy bars. Bags of chips. A pack of gum.
+
+It was like I couldn't stop. Every time I stole something, I felt this rush—this proof that I could break the rules and no one could catch me.
+
+But then one day, I got cocky.
+
+I tried to steal a lighter. One of those long ones for lighting grills.
+
+The store owner saw me.
+
+"Hey!" he shouted. "Put that back!"
+
+I ran.
+
+I ran out of the store, across the parking lot, through the streets, until I reached Rainier Park.
+
+And I hid in the tree.
+
+Fort Juniper.
+
+Except back then, it wasn't called Fort Juniper.
+
+Back then, it was just a pine tree.
+
+I climbed up into the branches, my lungs burning, my hands shaking.
+
+And I took out the lighter.
+
+I didn't plan what happened next. I wasn't thinking. I was just...angry.
+
+I flicked the lighter.
+
+The flame caught a dry branch.
+
+At first, it was just a small fire. But then it spread.
+
+The branches crackled and popped, the flames climbing higher.
+
+I panicked and jumped out of the tree, landing hard on the ground.
+
+By the time I looked back, half the tree was burning.
+
+I ran home.
+
+Later that night, I heard sirens. The fire department came and put out the fire before it spread to the other trees.
+
+No one ever found out it was me.
+
+But the tree survived. Burned and scarred, but alive.
+
+And now kids called it Fort Juniper.
+
+Because of me.
+
+(scene break)
+
+I sat there in the darkness, the weight of the memory pressing down on me.
+
+I'd never told anyone.
+
+Not Mom. Not Dad. Not Grandpa.
+
+Definitely not the two kids who'd been with me that day. I didn't even know where they were anymore.
+
+But I knew.
+
+And every time I saw Fort Juniper, I was reminded of what I'd done.
+
+I pulled out my phone and stared at the message I'd sent to Siggy and Raven about Mesa View Elementary.
+
+Tomorrow, we'd be breaking into another place we weren't supposed to be.
+
+Tomorrow, I'd be breaking more rules.
+
+But this time, it wasn't for me.
+
+It was for Marvin Marindale.
+
+For whatever he was trying to warn us about.
+
+And maybe—just maybe—that made it different.
+
+I stood up, brushed the pine needles off my jeans, and stepped out of the tree.
+
+Fort Juniper would always be there, a reminder of the worst version of myself.
+
+But I wasn't that kid anymore.
+
+At least, I was trying not to be.
+
+(end of chapter 20)
