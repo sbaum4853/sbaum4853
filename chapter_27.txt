@@ -1,0 +1,257 @@
+CHAPTER 27 - EPILOGUE
+
+Three weeks later, I stood on the stage at Marindale College, holding a trophy.
+
+Second place. Regional STEM Fair.
+
+Siggy and Raven stood beside me, grinning.
+
+Our robot—BleepBlorp—had performed perfectly. It navigated the maze, followed the line, and avoided every obstacle.
+
+The judges loved it.
+
+What they didn't know was that the robot was named after a video game about saving the world from an alien invasion.
+
+Or that the three of us had actually saved the world from a wormhole.
+
+Or that the detector—the device we'd assembled from four hidden pieces—was now locked in a safe in Grandpa's workshop, waiting for the day we might need it again.
+
+Some secrets were worth keeping.
+
+(scene break)
+
+After the awards ceremony, we met Grandpa in the lobby.
+
+He shook each of our hands, his grip firm and proud.
+
+"You kids did good," he said. "Real good."
+
+"Thanks, Grandpa," I said.
+
+He looked at me for a long moment, and I had the feeling he knew more than he was letting on.
+
+"Marvin would've been proud, too," he said quietly.
+
+I nodded.
+
+"Yeah," I said. "I think he would."
+
+(scene break)
+
+That night, back at home, I sat at my desk and opened the Dragon Notebook.
+
+I hadn't written in it for weeks. But tonight felt like the right time to add an entry.
+
+I picked up a pencil and started drawing.
+
+First, I sketched BleepBlorp—the little robot from the game, navigating its maze.
+
+Then I drew the Orrery, with its brass planets spinning in the turret at Hammerstrike.
+
+Then the scepter, the detector, and the faint outline of the alien ship in the warehouse.
+
+And finally, I wrote:
+
+---
+
+**What I learned this month:**
+
+1. **The Pythagorean Theorem.** It's not just about triangles. It's about solving problems you didn't think you could solve.
+
+2. **How to program a robot.** Turns out, robots are just like people—they do what you tell them, but only if you give good instructions.
+
+3. **How to trust people.** Siggy and Raven are my friends. Real friends. The kind who'll climb onto a roof with you or sneak into a locked warehouse at midnight. I didn't think I'd find people like that here.
+
+4. **How to finish what you start.** Marvin Marindale left us a mission, and we finished it. Not because we had to. Because it was the right thing to do.
+
+5. **You don't need superpowers to be a hero.** You just need to learn, to build, and to care about something bigger than yourself.
+
+---
+
+I closed the notebook and set it on my desk.
+
+Outside, the stars were bright.
+
+Somewhere out there, in another dimension, maybe there was an alien ship that had tried to come through.
+
+Or maybe there wasn't.
+
+Either way, it didn't matter.
+
+Because we'd closed the wormhole.
+
+We'd protected the town.
+
+And we'd done it without anyone knowing.
+
+That felt like enough.
+
+(scene break)
+
+The next morning, I went to Grandpa's workshop.
+
+He was at the workbench, as always, tinkering with a small engine.
+
+"Morning," he said, looking up. "What brings you by?"
+
+"I wanted to ask you something," I said.
+
+"Shoot."
+
+"Do you think...do you think Marvin knew? That we'd be the ones to find the clues?"
+
+Grandpa set down his wrench and leaned back against the bench.
+
+"I think," he said slowly, "Marvin knew that the right people would find them. Whether that was you, or someone else...he trusted that the clues would find their way to someone who'd do the right thing."
+
+"And we did?"
+
+"You did."
+
+I thought about that.
+
+"Grandpa," I said, "do you think there are more wormholes out there? More...things we don't understand?"
+
+Grandpa smiled. "I think the world is full of things we don't understand. That's what makes it interesting."
+
+"And what makes it worth learning about."
+
+"Exactly."
+
+He handed me a screwdriver. "Now come help me with this carburetor. I've been trying to get it working for three days."
+
+I grinned and took the screwdriver.
+
+Some things never change.
+
+(scene break)
+
+A few days later, I got a text from Raven.
+
+**Want to come over? Siggy's here. We're playing the game.**
+
+I biked over to her house.
+
+Siggy and Raven were sitting on the floor of her room, the Raspberry Pi hooked up to the little monitor.
+
+"Check it out," Siggy said as I walked in.
+
+On the screen, BleepBlorp was standing in a new level—one we'd never seen before.
+
+The background was different. Instead of geometric shapes and mazes, it showed a forest. A dark, mysterious forest with glowing trees.
+
+At the bottom of the screen, a message appeared:
+
+**CONGRATULATIONS, TRAVELER.**
+
+**YOU HAVE COMPLETED THE GEOMETRY INVASION.**
+
+**BUT THE JOURNEY IS NOT OVER.**
+
+**A NEW CHALLENGE AWAITS.**
+
+**ARE YOU READY?**
+
+I looked at Siggy and Raven.
+
+"Are we?" I asked.
+
+Raven grinned. "Absolutely."
+
+Siggy pressed the button.
+
+**CHALLENGE 1: THE FOREST OF UNKNOWNS.**
+
+**FIND THE PATH THROUGH THE TREES.**
+
+A new maze appeared on the screen—more complex than anything we'd seen before.
+
+"Alright," I said, sitting down beside them. "Let's do this."
+
+And we started solving.
+
+Because that's what we did now.
+
+We learned. We built. We solved problems.
+
+Together.
+
+(scene break)
+
+**THE END**
+
+*(Or is it...?)*
+
+---
+
+**AUTHOR'S NOTE:**
+
+If you've read this far, thank you.
+
+This story started as a simple idea: a kid who wants to build a robot for a STEM fair.
+
+But it became something more—a story about learning, about friendship, about facing challenges bigger than yourself.
+
+Gavin, Siggy, and Raven will be back. The detector is still out there, waiting. And there are more mysteries in this town than they realize.
+
+But for now, they've earned a break.
+
+And so have you.
+
+Until next time,
+
+—The Author
+
+---
+
+**APPENDIX: BUILD YOUR OWN ROBOT**
+
+Want to build a robot like BleepBlorp? Here's what you'll need:
+
+- 1 Arduino Uno
+- 2 DC motors
+- 2 wheels
+- 1 breadboard
+- 1 9V battery
+- Jumper wires
+- 1 chassis (you can cut one from cardboard or thin metal)
+
+Follow the steps Gavin learned in this book, and you'll have your own line-following robot in no time.
+
+And who knows? Maybe you'll discover something amazing along the way.
+
+---
+
+**GLOSSARY**
+
+**Arduino:** A small computer (microcontroller) that you can program to control things like LEDs, motors, and sensors.
+
+**Breadboard:** A tool for building circuits without soldering. You stick wires and components into it to connect them.
+
+**LED (Light Emitting Diode):** A small light that you can turn on and off with electricity.
+
+**Pythagorean Theorem:** A formula for finding the length of a side of a right triangle: a² + b² = c².
+
+**Raspberry Pi:** A tiny computer that you can use to run programs, play games, and build projects.
+
+**Resistor:** A component that reduces the flow of electricity in a circuit.
+
+**Wormhole:** A theoretical tunnel through spacetime that could connect distant parts of the universe—or even different dimensions.
+
+---
+
+**ACKNOWLEDGMENTS**
+
+To Grandpa, for teaching me that learning is the greatest superpower.
+
+To Marvin Marindale, for showing me that the best way to change the world is to trust the next generation.
+
+And to you, the reader, for joining Gavin on this journey.
+
+Keep learning. Keep building. Keep solving.
+
+The world needs more people like you.
+
+---
+
+**THE END**
