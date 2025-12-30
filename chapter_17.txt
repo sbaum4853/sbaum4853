@@ -1,0 +1,273 @@
+CHAPTER 17 - CHALLENGE 6
+
+Raven lived in a small house across from Rainier Park, the kind of place that looked like it had been there forever—faded blue paint, a chain-link fence around the yard, and a porch with two plastic chairs that had probably been white once but were now a dingy gray.
+
+I pulled up on my bike and leaned it against the fence. Before I could even knock, the front door opened.
+
+"You're early," Raven said.
+
+"Yeah, sorry. I was—"
+
+"It's fine. Come in."
+
+She held the door open, and I stepped inside.
+
+The house was small and cluttered, but in a lived-in way that felt comfortable. The living room had a couch covered in blankets, a coffee table stacked with books and magazines, and a TV playing some cooking show with the volume low. Somewhere in the back of the house, I could hear a younger kid shouting about something.
+
+"My brothers," Raven said, not bothering to explain further. "We can work in my room. It's quieter."
+
+I followed her down a narrow hallway to a bedroom at the end. Her room was tiny—barely big enough for a bed, a desk, and a bookshelf—but it was meticulously organized. The bed was made, the desk was clear except for a laptop and a notebook, and the books on the shelf were arranged by height.
+
+"Sit," she said, gesturing to the bed.
+
+I sat down and pulled out my notebook.
+
+"So," Raven said, settling into the desk chair and turning to face me. "You said you figured out Challenge 6?"
+
+"Sort of," I said. "My dad taught me the Pythagorean Theorem last night. I think that's what we need."
+
+"Show me."
+
+I opened my notebook to the page where I'd written down the formula:
+
+a² + b² = c²
+
+"It's for right triangles," I explained. "If you know two sides, you can find the third side."
+
+Raven leaned forward, studying the formula.
+
+"Okay," she said. "So how does that help us with the game?"
+
+"I don't know yet. We need to see what Challenge 6 actually asks."
+
+"Alright. Let me get the Pi."
+
+She stood up and opened her closet, pulling out a cardboard box. Inside was a Raspberry Pi, the same model Siggy had, along with a small monitor, a keyboard, and a tangle of cables.
+
+"Wait," I said. "You have a Raspberry Pi too?"
+
+"Yeah. Siggy gave it to me yesterday. Said he got two of them and thought I'd want one." She started connecting the cables. "He also said there was this weird game on it. Something about an alien invasion?"
+
+"That's the one."
+
+"Is it actually good?"
+
+"I mean...it's weird. But yeah, kind of."
+
+She finished plugging everything in and powered on the Pi. The little screen flickered to life, showing the same blocky graphics I'd seen on Siggy's setup.
+
+The title screen appeared:
+
+**BLEEPBLORP AND THE GEOMETRY INVASION**
+
+Raven clicked through the menu until we got to Challenge 6.
+
+The screen changed, showing a simple drawing: a right triangle with two sides labeled.
+
+(illustration of Challenge 6 triangle)
+
+The vertical side was labeled **9 units**.
+
+The horizontal side was labeled **12 units**.
+
+The hypotenuse—the long diagonal side—was blank.
+
+Below the triangle, a question appeared:
+
+**CHALLENGE 6: HOW LONG IS THE MISSING SIDE?**
+
+**Enter your answer to continue.**
+
+Raven looked at me. "Okay. So we use the Pythagorean Theorem?"
+
+"Yeah." I pointed at the triangle. "See, this is a right triangle. The vertical side is 9, the horizontal side is 12. We need to find the hypotenuse—the long side."
+
+"So we plug it into the formula?"
+
+"Exactly."
+
+I wrote it out in my notebook:
+
+a² + b² = c²
+
+9² + 12² = c²
+
+81 + 144 = c²
+
+225 = c²
+
+"Now we take the square root of both sides," I said.
+
+Raven grabbed a calculator from her desk and typed it in.
+
+"Square root of 225 is...15."
+
+"So the hypotenuse is 15 units."
+
+She looked at the screen, then typed **15** into the input box.
+
+The screen flashed.
+
+**CORRECT.**
+
+**CHALLENGE 6 COMPLETE.**
+
+The triangle disappeared, and new text scrolled across the screen:
+
+**CONGRATULATIONS, TRAVELER.**
+
+**YOU HAVE UNLOCKED THE NEXT CLUE.**
+
+**THE MESSAGE WILL ARRIVE SOON.**
+
+**COORDINATES: 34.5199° N, 105.8753° W**
+
+**LOCATION: BENEATH THE TREE.**
+
+Raven and I stared at the screen.
+
+"Coordinates," she said.
+
+"Yeah."
+
+"Do you know where that is?"
+
+I pulled out my phone and typed the coordinates into a map app.
+
+A red pin dropped onto the screen.
+
+Rainier Park.
+
+"It's across the street," I said, showing her the phone. "In the park."
+
+"Beneath the tree," Raven read. "Which tree?"
+
+I had a sinking feeling I already knew.
+
+"Fort Juniper," I said quietly.
+
+(scene break)
+
+Ten minutes later, we were standing at the base of Fort Juniper.
+
+The burned pine tree loomed above us, its blackened branches swaying slightly in the breeze. The gap in the trunk—the one that made it look like a doorway—seemed darker than I remembered.
+
+"This is the tree?" Raven asked.
+
+"Yeah."
+
+"And you're sure the coordinates point here?"
+
+I checked my phone again. The red pin was right on top of us.
+
+"Positive."
+
+Raven stepped closer to the tree, peering into the gap. "So we're supposed to find something beneath it?"
+
+"I guess."
+
+She crouched down and started brushing away the pine needles that covered the ground at the base of the tree. I knelt down beside her and did the same.
+
+We dug for a minute, maybe two, scraping away layers of dirt and needles.
+
+Then my fingers hit something hard.
+
+"Wait," I said. "I think I found it."
+
+I cleared away more dirt, revealing a small metal box, about the size of a lunchbox, buried just beneath the surface. It was old and rusted, with a latch on the front.
+
+Raven stared at it. "Is that...?"
+
+"I think so."
+
+I pulled the box out of the ground and set it between us. My hands were shaking.
+
+"Open it," Raven said.
+
+I flipped the latch and lifted the lid.
+
+Inside was a folded piece of paper and a small black device, no bigger than a deck of cards. The device had a small screen on one side and a cluster of wires and circuits on the other.
+
+"What is that?" Raven asked.
+
+"I don't know."
+
+I picked up the folded paper and opened it.
+
+The handwriting was neat and precise, written in blue ink:
+
+---
+
+*To whoever finds this:*
+
+*If you are reading this, you have solved the first six challenges. Congratulations. You are clever, persistent, and brave—exactly the kind of person I hoped would find this.*
+
+*My name is Marvin Marindale. If you are a young person in this town, you may have heard of me. If you have heard of me, you probably think I am eccentric, or strange, or possibly insane. I assure you, I am none of those things.*
+
+*I am, however, desperate.*
+
+*I have discovered something—something that most people would not believe. I have tried to warn the authorities, the government, even my former colleagues at Tanthrop Hammond. They did not listen. They called me paranoid. They called me delusional.*
+
+*So I am turning to you.*
+
+*There is a threat coming. I cannot say more here, for fear this message will fall into the wrong hands. But if you continue to follow the clues, you will learn the truth.*
+
+*The device in this box is the first piece of a machine I have hidden across this town. Alone, it is useless. But when all the pieces are assembled, it will give you the power to stop what is coming.*
+
+*The next clue is hidden at the place where knowledge is kept. Look for the star.*
+
+*Trust no one at Tanthrop Hammond.*
+
+*And whatever you do, do not give up.*
+
+*—Marvin Marindale*
+
+---
+
+I read the letter twice, my heart pounding.
+
+Raven read it over my shoulder.
+
+When she finished, she looked at me, her eyes wide.
+
+"This is real," she said.
+
+"I know."
+
+"He's serious. He's actually serious."
+
+"I know."
+
+She picked up the small black device and turned it over in her hands. "What is this supposed to do?"
+
+"I don't know. But he said it's the first piece of a machine."
+
+"A machine that can stop...whatever's coming."
+
+We sat there in silence, the weight of the letter pressing down on us.
+
+Finally, Raven said, "What do we do?"
+
+I thought about Grandpa's words: *If Marvin Marindale left you a clue, I'd take it seriously.*
+
+"We keep going," I said. "We find the next clue."
+
+"Where is it?"
+
+I looked at the letter again. *The place where knowledge is kept. Look for the star.*
+
+"The Atlas Library," I said. "It has to be."
+
+Raven nodded slowly. "When do we go?"
+
+"Tomorrow," I said. "We'll bring Siggy. He should be part of this."
+
+She looked down at the device in her hands, then at me.
+
+"Gavin," she said quietly, "what if this is really real? What if there really is...something coming?"
+
+I didn't have an answer.
+
+So I just said, "Then we'd better figure out how to stop it."
+
+(end of chapter 17)
