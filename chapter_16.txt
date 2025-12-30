@@ -1,0 +1,318 @@
+CHAPTER 16 - MARVIN MARINDALE
+
+Grandpa took the book from my hands and flipped through it, his reading glasses perched on the end of his nose. He paused on a page about halfway through, nodding to himself.
+
+"There's a good section here on electricity," he said, tapping the page. "Basic stuff—voltage, current, resistance. If you promise to read it today, we can do the next part of your robot right now."
+
+"Deal," I said immediately.
+
+"Alright then." He set the book down on the arm of his chair and stood up. "Let's go to the workshop."
+
+I followed him through the kitchen and out the back door. The morning sun was already warming up the day, making the air feel thick and dusty. Grandpa's workshop sat at the end of the driveway, a converted garage that smelled like motor oil, sawdust, and old metal.
+
+Inside, the workbench was exactly as we'd left it last time—my breadboard still sitting there with the LED circuit we'd built, the jumper wires neatly coiled beside it.
+
+But today, Grandpa pulled out something new.
+
+"This," he said, holding up a small rectangular board covered in tiny components, "is an Arduino."
+
+(illustration of Arduino)
+
+I leaned in to look at it. The board was maybe three inches long, dark blue, with rows of metal pins sticking up along the edges. In the center was a black chip with the word ATMEL printed on it.
+
+"It's a microcontroller," Grandpa continued. "A tiny computer that can run programs and control things—LEDs, motors, sensors, you name it. If you want to build a robot that actually does stuff, you need one of these."
+
+"Can it make the robot move?"
+
+"Eventually, yes. But first, you need to learn how to talk to it." He set the Arduino on the bench next to my breadboard. "Today we're going to make it blink an LED. Simple, but it'll teach you the basics."
+
+"Isn't that what we already did?" I asked, pointing at the breadboard.
+
+"That was a manual circuit. You turned it on, the LED stayed on. With an Arduino, you write a program that tells the LED when to blink. On, off, on, off—whatever pattern you want."
+
+That sounded way cooler.
+
+Grandpa pulled out a laptop from a shelf under the bench—the one he kept in the workshop for "tools only"—and powered it on. While it booted up, he showed me how to connect the Arduino to the breadboard using jumper wires.
+
+"Pin 13 goes here," he said, pointing. "And don't forget the resistor."
+
+I grabbed a 220-ohm resistor from the bin and inserted it into the breadboard, just like he'd taught me before. Then I connected the LED, making sure the long leg (positive) was on the right side.
+
+"Good," Grandpa said. "Now plug the Arduino into the computer."
+
+He handed me a USB cable, and I connected the Arduino to the laptop. The little green light on the board flickered to life.
+
+"That light means it's getting power," Grandpa explained. "Now we write the code."
+
+He opened a program on the laptop—something called the Arduino IDE—and a blank window appeared with a bunch of menus at the top.
+
+"This is where you write your program," he said. "In Arduino, a program is called a 'sketch.' Don't ask me why. Probably because programmers like to sound quirky."
+
+I laughed.
+
+Grandpa started typing, his thick fingers surprisingly nimble on the keyboard. As he typed, he explained what each line did.
+
+```
+void setup() {
+  pinMode(13, OUTPUT);
+}
+
+void loop() {
+  digitalWrite(13, HIGH);
+  delay(1000);
+  digitalWrite(13, LOW);
+  delay(1000);
+}
+```
+
+"See this?" he said, pointing at the screen. "The setup() function runs once when the Arduino starts. We're telling it that pin 13 is an OUTPUT—meaning it's going to send electricity out to the LED."
+
+"And the loop() part?"
+
+"That runs over and over, forever. First, it turns pin 13 HIGH, which means 'on.' Then it waits for 1000 milliseconds—that's one second. Then it turns pin 13 LOW, which means 'off,' and waits another second. Blink, blink, blink."
+
+"That's it?"
+
+"That's it."
+
+He clicked a button at the top of the screen—an arrow pointing right—and the program uploaded to the Arduino. A second later, the LED on my breadboard started blinking.
+
+On. Off. On. Off.
+
+I stared at it, weirdly mesmerized.
+
+"I just programmed something," I said.
+
+"You watched me program something," Grandpa corrected. "But now it's your turn."
+
+He slid the laptop over to me.
+
+"Change the delay," he said. "Make it blink faster."
+
+I looked at the code. The delay was set to 1000. I changed both delays to 500 and clicked the upload button.
+
+The LED started blinking faster.
+
+"Now make it blink in a pattern," Grandpa said. "Like Morse code. Three short blinks, three long blinks, three short blinks. SOS."
+
+I frowned at the screen, thinking. Then I started typing, deleting the loop() part and rewriting it:
+
+```
+void loop() {
+  // Three short blinks
+  digitalWrite(13, HIGH);
+  delay(200);
+  digitalWrite(13, LOW);
+  delay(200);
+  digitalWrite(13, HIGH);
+  delay(200);
+  digitalWrite(13, LOW);
+  delay(200);
+  digitalWrite(13, HIGH);
+  delay(200);
+  digitalWrite(13, LOW);
+  delay(500);
+
+  // Three long blinks
+  digitalWrite(13, HIGH);
+  delay(600);
+  digitalWrite(13, LOW);
+  delay(200);
+  digitalWrite(13, HIGH);
+  delay(600);
+  digitalWrite(13, LOW);
+  delay(200);
+  digitalWrite(13, HIGH);
+  delay(600);
+  digitalWrite(13, LOW);
+  delay(500);
+
+  // Three short blinks
+  digitalWrite(13, HIGH);
+  delay(200);
+  digitalWrite(13, LOW);
+  delay(200);
+  digitalWrite(13, HIGH);
+  delay(200);
+  digitalWrite(13, LOW);
+  delay(200);
+  digitalWrite(13, HIGH);
+  delay(200);
+  digitalWrite(13, LOW);
+  delay(2000);
+}
+```
+
+I uploaded it and held my breath.
+
+The LED blinked. Short, short, short. Long, long, long. Short, short, short.
+
+SOS.
+
+"There you go," Grandpa said, grinning. "You're a programmer."
+
+I couldn't stop smiling.
+
+(scene break)
+
+We spent the next hour experimenting. Grandpa showed me how to add more LEDs to the breadboard, each one connected to a different pin on the Arduino. I wrote a program that made them light up in sequence, like a little light show.
+
+"This is what your robot will do eventually," Grandpa said. "Except instead of LEDs, you'll be controlling motors. Same principle, though. You write the code, the Arduino follows your instructions."
+
+"When can we add motors?"
+
+"Soon. But first, you need to understand the basics. And you promised to read that chapter on electricity."
+
+"I will," I said. "I'm going to Raven's after this, but I'll read it tonight."
+
+"Good." He started unplugging the Arduino and coiling up the wires. "You can take this home if you want. Practice writing sketches."
+
+"Really?"
+
+"Sure. Just don't blow it up."
+
+I laughed and carefully packed the Arduino, the breadboard, and the jumper wires into my backpack.
+
+As I zipped it up, something on Grandpa's bookshelf caught my eye.
+
+A book spine with a fancy label on it.
+
+I'd seen that label before—yesterday, at the Atlas Library. The same ornate design, the same gold lettering.
+
+*Property of Marvin Marindale.*
+
+I walked over to the shelf and pulled the book out. It was an old engineering manual, the pages yellowed and brittle. But there it was, inside the front cover: the bookplate with Marvin Marindale's name.
+
+"Grandpa," I said slowly, "why do you have a book that belonged to Marvin Marindale?"
+
+Grandpa looked up from the workbench. "Marvin? Oh, he gave me that years ago. Said I'd get more use out of it than he would."
+
+"You knew him?"
+
+"Sure. Everybody in town knew Marvin. He was hard to miss."
+
+I turned the book over in my hands, my mind racing.
+
+The slip of paper I'd found in *Electricity for Young Inventors* had the same bookplate. That book had belonged to Marvin Marindale too. And the slip of paper had coordinates—coordinates that somehow connected to Siggy's Raspberry Pi and the alien invasion warning.
+
+"Grandpa," I said carefully, "tell me more about Marvin Marindale."
+
+Grandpa leaned back against the workbench, crossing his arms.
+
+"Well," he said, "Marvin was...eccentric. Brilliant, but eccentric. He inherited a fortune from his family—silver mining, I think—and instead of just sitting on it, he spent it all on projects. The Atlas Library, the observatory, the museum. He loved science, especially physics."
+
+"Did he work anywhere? Like, a job?"
+
+"He worked at Tanthrop Hammond for a while. That's the big research corporation over in Red Bluff. They do government contracts, classified stuff. Marvin was one of their top researchers."
+
+My stomach did a little flip. Tanthrop Hammond. That was the company Dad had worked for. The company that fired him.
+
+"What did he research?" I asked.
+
+Grandpa rubbed his chin. "That's where it gets strange. Toward the end of his life, Marvin became obsessed with these...unusual theories. Spacetime, wormholes, exotic matter. Stuff that sounded like science fiction. People in town thought he'd gone off the deep end."
+
+"But you didn't?"
+
+"I knew Marvin," Grandpa said firmly. "He wasn't crazy. He was just ahead of his time. And whatever he was working on at Tanthrop Hammond, it made people nervous. There were rumors about experiments, about things going wrong. Eventually, Marvin left the company and started working on his own."
+
+"What happened to him?"
+
+"He died last year. Heart attack, they said. He was in his mansion—Hammerstrike, the old Brimley estate—working in his study. They found him at his desk, papers everywhere."
+
+I thought about the Raspberry Pi. The video game. The message about an alien invasion.
+
+"Do you think," I said slowly, "that Marvin Marindale was trying to tell someone something? Like, before he died?"
+
+Grandpa gave me a long look.
+
+"Why do you ask?"
+
+I hesitated. How much should I tell him?
+
+"I found something," I said finally. "A note. In one of the books I checked out from the Atlas Library. It had Marvin Marindale's bookplate in it."
+
+"What did the note say?"
+
+"It had coordinates. And some weird symbols."
+
+Grandpa was quiet for a moment. Then he said, "Marvin was the kind of man who planned things carefully. If he left you a note, it was for a reason."
+
+"But why me? He didn't even know me."
+
+"Maybe not," Grandpa said. "But Marvin believed in passing knowledge on to the next generation. That's why he built the library, why he funded the STEM fair every year. He wanted kids like you to have the tools to learn, to build, to discover things."
+
+He walked over and put a hand on my shoulder.
+
+"If Marvin Marindale left you a clue," he said, "I'd take it seriously."
+
+I swallowed hard.
+
+"Okay," I said.
+
+(scene break)
+
+I left Grandpa's workshop with more questions than answers.
+
+Marvin Marindale had worked at Tanthrop Hammond—the same company that fired Dad.
+
+He'd been obsessed with wormholes and spacetime.
+
+He'd left clues in library books with his name in them.
+
+And according to Grandpa, if Marvin left me a clue, it was for a reason.
+
+I checked my phone. 11:30. I still had half an hour before I was supposed to be at Raven's.
+
+Time enough to think.
+
+I got on my bike and started riding, letting my thoughts wander as I pedaled through the quiet streets.
+
+The alien invasion warning on Siggy's Raspberry Pi.
+
+The slip of paper with coordinates.
+
+The message that had appeared in my bedroom last night: *A message is coming for you tonight. Take it seriously. This is all for real.*
+
+What if it really was all real?
+
+What if Marvin Marindale had discovered something—something about wormholes, about spacetime, about an actual alien invasion—and he was trying to warn us?
+
+But why kids? Why not tell the government, or scientists, or someone with actual power?
+
+Unless...he couldn't.
+
+Unless Tanthrop Hammond had stopped him.
+
+I thought about Dad, about how he'd been fired for disagreeing with the company about ethics and open-source technology. What if Marvin had been fired for the same reason? What if he'd tried to tell people about what he'd discovered, and they'd shut him down?
+
+My phone buzzed in my pocket.
+
+I stopped my bike and pulled it out.
+
+A text from Siggy:
+
+**Dude. I just got another message.**
+
+My heart started pounding.
+
+**What does it say?** I typed back.
+
+Three dots appeared. Then:
+
+**"Challenge 6 is ready. Solve it, and the next clue will be revealed."**
+
+I stared at the screen.
+
+Challenge 6. The one that required the Pythagorean Theorem.
+
+The one I'd just learned how to solve.
+
+I texted back: **I'm on my way to Raven's now. We're going to solve it.**
+
+Siggy replied immediately: **YESSS. Let me know what happens!!!**
+
+I shoved my phone back in my pocket and started pedaling as fast as I could.
+
+If Marvin Marindale had really left us a trail of clues, we were about to follow it.
+
+(end of chapter 16)
