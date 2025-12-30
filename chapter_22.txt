@@ -1,0 +1,259 @@
+CHAPTER 22 - THE MAGIC SQUARE AND THE STEM FAIR
+
+The magic square took me three days to solve.
+
+I worked on it every night after dinner, filling page after page of my notebook with grids and calculations.
+
+The numbers 1 through 25 had to fit into a 5x5 grid, and every row, column, and diagonal had to add up to 65.
+
+It was maddening.
+
+I tried brute force at first—just plugging in numbers randomly and seeing what worked. That got me nowhere.
+
+Then I tried looking for patterns. The middle number had to be 13, because that was the median of 1-25. That helped, but I still couldn't figure out the rest.
+
+Finally, on the third night, I found a method online: start with the number 1 in the middle of the top row, then move diagonally up and to the right, wrapping around the grid when you hit the edge.
+
+It worked.
+
+I entered the solution into the game, and the screen flashed:
+
+**CHALLENGE 8: COMPLETE.**
+
+**THE NEXT CLUE WILL ARRIVE SOON.**
+
+But this time, there were no coordinates. No location.
+
+Just a message:
+
+**PREPARE FOR THE STEM FAIR. THE NEXT STEP WILL REVEAL ITSELF THERE.**
+
+I stared at the screen.
+
+The STEM Fair.
+
+(scene break)
+
+The next morning, Ms. Ehlo announced it in science class.
+
+"Alright, everyone," she said, standing at the front of the room with a stack of flyers. "The annual Marindale STEM Fair is coming up in two weeks. If you're interested in participating, you need to register by this Friday."
+
+She started handing out the flyers, and when one landed on my desk, I read it carefully.
+
+**MARINDALE STEM FAIR**
+*Saturday, September 21st*
+*Location: Hammerstrike Estate*
+*Sponsored by the Marindale Foundation*
+
+*Showcase your science, technology, engineering, or math project for a chance to win scholarships and prizes!*
+
+*Top projects will advance to the regional competition at Marindale College.*
+
+My heart started pounding.
+
+Hammerstrike Estate.
+
+That was where Marvin had lived. Where the Orrery Room was. Where the fourth piece of the machine was hidden.
+
+And the STEM Fair was on September 21st—the day before the autumn equinox.
+
+This wasn't a coincidence.
+
+Marvin had planned this.
+
+At lunch, I found Siggy and Raven and showed them the flyer.
+
+"We have to enter," I said.
+
+"The STEM Fair?" Siggy said. "Why?"
+
+"Because it's at Hammerstrike. Don't you see? Marvin set this up. The fair gives us an excuse to be there."
+
+Raven's eyes widened. "So we can find the Orrery Room."
+
+"Exactly."
+
+"But we need a project," Siggy said. "What are we going to present?"
+
+I thought about it.
+
+"My robot," I said. "The one I've been building with Grandpa. We can program it to solve challenges. Like the ones in the game."
+
+"That's perfect," Raven said. "We can say we're demonstrating problem-solving robots or something."
+
+"And while we're there," I said, "we find the Orrery Room and get the fourth piece."
+
+Siggy grinned. "I love it. We're like secret agents."
+
+"We're like kids who are in way over their heads," Raven said. "But yeah. Let's do it."
+
+(scene break)
+
+That afternoon, I went to Grandpa's to tell him about the STEM Fair.
+
+He was in the workshop, as usual, working on a small engine he was rebuilding.
+
+"Grandpa," I said, "I want to enter the Marindale STEM Fair."
+
+He looked up, wiping his hands on a rag. "That's a great idea. What are you going to present?"
+
+"The robot we've been building. But I need to finish programming it first. Can you help me?"
+
+"Of course." He set down the rag and walked over to the workbench where the robot sat. "What do you want it to do?"
+
+"I want it to solve challenges," I said. "Like...navigate a maze. Or follow a line. Or avoid obstacles."
+
+Grandpa nodded thoughtfully. "Those are all good skills for a robot to have. Let's start with line-following. That's a classic."
+
+He pulled out a roll of black electrical tape and stuck a long strip of it to a piece of white poster board, creating a winding path.
+
+"The robot will use sensors to detect the line," he explained. "And the program will tell it to follow the line by adjusting the motors."
+
+"How do we add sensors?"
+
+"Like this."
+
+He showed me how to attach two infrared sensors to the front of the robot, one on each side. The sensors could detect the difference between the white poster board and the black tape.
+
+Then we wrote the program.
+
+It was more complicated than the blinking LED, but Grandpa walked me through it step by step.
+
+```
+if (left sensor detects black) {
+    turn left
+}
+if (right sensor detects black) {
+    turn right
+}
+if (both sensors detect white) {
+    move forward
+}
+```
+
+We uploaded the program to the Arduino, set the robot on the poster board, and turned it on.
+
+It wobbled forward, its motors whirring.
+
+Then it reached the black line, detected it with the left sensor, and turned left.
+
+"It's working!" I said.
+
+The robot followed the line, turning at each curve, adjusting its path.
+
+It wasn't perfect—it wiggled a lot, and sometimes it veered off the line before correcting itself—but it worked.
+
+"That's good for a first try," Grandpa said. "Now you just need to fine-tune the program. Make it smoother."
+
+"I can do that," I said.
+
+He smiled. "I know you can."
+
+(scene break)
+
+Over the next week, I worked on the robot every day.
+
+I adjusted the program, tweaking the speed of the motors and the sensitivity of the sensors. I added a second challenge: obstacle avoidance. The robot would use an ultrasonic sensor to detect objects in front of it and steer around them.
+
+Siggy and Raven helped me build a display board for the STEM Fair. We drew diagrams of how the robot worked, explained the sensors and the code, and included photos of the building process.
+
+By Friday, we were ready.
+
+We registered for the fair, listing our project as "BleepBlorp: A Problem-Solving Robot."
+
+Ms. Ehlo approved it, saying it sounded "innovative and educational."
+
+If only she knew.
+
+(scene break)
+
+That night, I loaded the game again.
+
+**CHALLENGE 9: LOCKED.**
+
+I clicked on it.
+
+The screen changed, showing a new puzzle.
+
+This one was different from the others.
+
+It showed a picture of a clock, with the hands pointing to 3:15.
+
+Below it, a question:
+
+**CHALLENGE 9: WHAT ANGLE DO THE CLOCK HANDS MAKE?**
+
+I grabbed my notebook and started sketching.
+
+A clock is a circle, which means 360 degrees.
+
+There are 12 hours on a clock, so each hour represents 30 degrees (360 ÷ 12 = 30).
+
+At 3:00, the hour hand would be pointing at the 3, which is 90 degrees from 12.
+
+But at 3:15, the hour hand has moved slightly past the 3.
+
+Each minute moves the hour hand 0.5 degrees (30 degrees per hour ÷ 60 minutes = 0.5 degrees per minute).
+
+So at 15 minutes, the hour hand has moved an extra 7.5 degrees.
+
+90 + 7.5 = 97.5 degrees.
+
+The minute hand at 15 minutes is pointing at the 3, which is also 90 degrees.
+
+Wait, no. The minute hand at 15 minutes is pointing at the 3, which is 90 degrees from the 12.
+
+So the angle between the two hands is:
+
+97.5 - 90 = 7.5 degrees.
+
+I entered **7.5** into the game.
+
+**CHALLENGE 9: COMPLETE.**
+
+The screen flashed, and a new message appeared:
+
+**WELL DONE. TWO CHALLENGES REMAIN.**
+
+**COMPLETE THEM, AND THE FINAL CODE WILL BE REVEALED.**
+
+Two more challenges.
+
+And then we'd have the code to unlock Hammerstrike.
+
+(scene break)
+
+The night before the STEM Fair, I couldn't sleep.
+
+I lay in bed, staring at the ceiling, running through the plan in my head.
+
+Step 1: Set up our project at the fair.
+Step 2: Slip away and find the Orrery Room.
+Step 3: Use the code to unlock the final piece.
+Step 4: Get out without anyone noticing.
+
+It sounded simple.
+
+But I had a feeling it wouldn't be.
+
+My phone buzzed on the nightstand.
+
+A text from Raven: **You awake?**
+
+Me: **Yeah.**
+
+Raven: **Nervous?**
+
+Me: **A little.**
+
+Raven: **Me too. But we can do this.**
+
+Me: **Yeah. We can.**
+
+A moment later, Siggy chimed in: **GROUP HUG VIA TEXT. WE GOT THIS.**
+
+I smiled.
+
+We got this.
+
+(end of chapter 22)
